@@ -36,6 +36,7 @@ A cutting-edge RFID and ESP8266-powered smart medication inventory system design
 - **Google Forms & Sheets**:  
    - Collects patient information (name, email, mobile number, medication, dosage, end date).  
    - Logs medication data for real-time tracking.  
+   - [Access the Google Sheets Setup Here](https://bit.ly/MediTag).  
 - **Google Apps Script**:  
    - Automates email reminders and confirmations.  
    - Highlights matched records in Google Sheets for better visualization.  
